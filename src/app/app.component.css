@@ -1,0 +1,9 @@
+.container{
+    /* box-sizing: border-box; */
+    background-color: #dedede;
+    border: 1px solid;
+}
+.student {
+    /* box-sizing: border-box; */
+    border: 1px solid;
+}
